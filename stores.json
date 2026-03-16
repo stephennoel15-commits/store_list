@@ -11,8 +11,8 @@
     "region": "TX",
     "country": "USA",
     "zip": "78727",
-    "latitude": 30.418,
-    "longitude": -97.7075
+    "lat": 30.418,
+    "lng": -97.7075
   },
   {
     "id": "Harbor Freight Store 151",
@@ -26,8 +26,8 @@
     "region": "TX",
     "country": "USA",
     "zip": "78704",
-    "latitude": 30.231,
-    "longitude": -97.7879
+    "lat": 30.231,
+    "lng": -97.7879
   },
   {
     "id": "Harbor Freight Store 152",
@@ -41,8 +41,8 @@
     "region": "TX",
     "country": "USA",
     "zip": "78626",
-    "latitude": 30.6437,
-    "longitude": -97.6772
+    "lat": 30.6437,
+    "lng": -97.6772
   },
   {
     "id": "Harbor Freight Store 153",
@@ -56,8 +56,8 @@
     "region": "TX",
     "country": "USA",
     "zip": "79109",
-    "latitude": 35.1604,
-    "longitude": -101.9033
+    "lat": 35.1604,
+    "lng": -101.9033
   },
   {
     "id": "Harbor Freight Store 154",
@@ -71,8 +71,8 @@
     "region": "TX",
     "country": "USA",
     "zip": "79103",
-    "latitude": 35.2072,
-    "longitude": -101.812
+    "lat": 35.2072,
+    "lng": -101.812
   },
   {
     "id": "Harbor Freight Store 155",
@@ -86,8 +86,8 @@
     "region": "TX",
     "country": "USA",
     "zip": "78232",
-    "latitude": 29.6046,
-    "longitude": -98.478
+    "lat": 29.6046,
+    "lng": -98.478
   },
   {
     "id": "Harbor Freight Store 156",
@@ -101,8 +101,8 @@
     "region": "TX",
     "country": "USA",
     "zip": "78245",
-    "latitude": 29.5121,
-    "longitude": -98.6033
+    "lat": 29.5121,
+    "lng": -98.6033
   },
   {
     "id": "Harbor Freight Store 157",
@@ -116,8 +116,8 @@
     "region": "TX",
     "country": "USA",
     "zip": "78213",
-    "latitude": 29.4904,
-    "longitude": -98.5137
+    "lat": 29.4904,
+    "lng": -98.5137
   },
   {
     "id": "Harbor Freight Store 158",
@@ -131,8 +131,8 @@
     "region": "TX",
     "country": "USA",
     "zip": "78218",
-    "latitude": 29.5089,
-    "longitude": -98.3602
+    "lat": 29.5089,
+    "lng": -98.3602
   },
   {
     "id": "Harbor Freight Store 159",
@@ -146,9 +146,10 @@
     "region": "TX",
     "country": "USA",
     "zip": "78221",
-    "latitude": 29.3549,
-    "longitude": -98.5035
+    "lat": 29.3549,
+    "lng": -98.5035
   },
+
   {
     "id": "Harbor Freight Store 171",
     "title": "Harbor Freight Store 171",
@@ -161,9 +162,10 @@
     "region": "TX",
     "country": "USA",
     "zip": "78220",
-    "latitude": 29.4026,
-    "longitude": -98.4053
+    "lat": 29.4026,
+    "lng": -98.4053
   },
+
   {
     "id": "Harbor Freight Store 172",
     "title": "Harbor Freight Store 172",
@@ -176,9 +178,10 @@
     "region": "TX",
     "country": "USA",
     "zip": "77502",
-    "latitude": 29.6927,
-    "longitude": -95.2172
+    "lat": 29.6927,
+    "lng": -95.2172
   },
+
   {
     "id": "Harbor Freight Store 173",
     "title": "Harbor Freight Store 173",
@@ -191,9 +194,10 @@
     "region": "TX",
     "country": "USA",
     "zip": "77505",
-    "latitude": 29.6657,
-    "longitude": -95.1595
+    "lat": 29.6657,
+    "lng": -95.1595
   },
+
   {
     "id": "Harbor Freight Store 174",
     "title": "Harbor Freight Store 174",
@@ -206,9 +210,10 @@
     "region": "TX",
     "country": "USA",
     "zip": "76015",
-    "latitude": 32.6602,
-    "longitude": -97.1174
+    "lat": 32.6602,
+    "lng": -97.1174
   },
+
   {
     "id": "Harbor Freight Store 175",
     "title": "Harbor Freight Store 175",
@@ -221,9 +226,10 @@
     "region": "TX",
     "country": "USA",
     "zip": "76201",
-    "latitude": 33.228,
-    "longitude": -97.157
+    "lat": 33.228,
+    "lng": -97.157
   },
+
   {
     "id": "Harbor Freight Store 176",
     "title": "Harbor Freight Store 176",
@@ -236,9 +242,10 @@
     "region": "TX",
     "country": "USA",
     "zip": "75075",
-    "latitude": 33.0225,
-    "longitude": -96.6993
+    "lat": 33.0225,
+    "lng": -96.6993
   },
+
   {
     "id": "Harbor Freight Store 177",
     "title": "Harbor Freight Store 177",
@@ -251,9 +258,10 @@
     "region": "TX",
     "country": "USA",
     "zip": "75228",
-    "latitude": 32.8095,
-    "longitude": -96.6517
+    "lat": 32.8095,
+    "lng": -96.6517
   },
+
   {
     "id": "Harbor Freight Store 178",
     "title": "Harbor Freight Store 178",
@@ -266,9 +274,10 @@
     "region": "TX",
     "country": "USA",
     "zip": "75042",
-    "latitude": 32.8905,
-    "longitude": -96.6498
+    "lat": 32.8905,
+    "lng": -96.6498
   },
+
   {
     "id": "Harbor Freight Store 179",
     "title": "Harbor Freight Store 179",
@@ -281,9 +290,10 @@
     "region": "TX",
     "country": "USA",
     "zip": "75082",
-    "latitude": 32.981,
-    "longitude": -96.6825
+    "lat": 32.981,
+    "lng": -96.6825
   },
+
   {
     "id": "Harbor Freight Store 180",
     "title": "Harbor Freight Store 180",
@@ -296,9 +306,10 @@
     "region": "TX",
     "country": "USA",
     "zip": "76104",
-    "latitude": 32.7295,
-    "longitude": -97.3213
+    "lat": 32.7295,
+    "lng": -97.3213
   },
+
   {
     "id": "Harbor Freight Store 181",
     "title": "Harbor Freight Store 181",
@@ -311,9 +322,10 @@
     "region": "TX",
     "country": "USA",
     "zip": "76180",
-    "latitude": 32.8487,
-    "longitude": -97.2185
+    "lat": 32.8487,
+    "lng": -97.2185
   },
+
   {
     "id": "Harbor Freight Store 182",
     "title": "Harbor Freight Store 182",
@@ -326,9 +338,10 @@
     "region": "TX",
     "country": "USA",
     "zip": "75051",
-    "latitude": 32.7078,
-    "longitude": -97.0205
+    "lat": 32.7078,
+    "lng": -97.0205
   },
+
   {
     "id": "Harbor Freight Store 183",
     "title": "Harbor Freight Store 183",
@@ -341,9 +354,10 @@
     "region": "TX",
     "country": "USA",
     "zip": "77504",
-    "latitude": 29.6641,
-    "longitude": -95.1873
+    "lat": 29.6641,
+    "lng": -95.1873
   },
+
   {
     "id": "Harbor Freight Store 184",
     "title": "Harbor Freight Store 184",
@@ -356,9 +370,10 @@
     "region": "TX",
     "country": "USA",
     "zip": "77590",
-    "latitude": 29.391,
-    "longitude": -94.9481
+    "lat": 29.391,
+    "lng": -94.9481
   },
+
   {
     "id": "Harbor Freight Store 185",
     "title": "Harbor Freight Store 185",
@@ -371,9 +386,10 @@
     "region": "TX",
     "country": "USA",
     "zip": "78572",
-    "latitude": 26.2057,
-    "longitude": -98.3024
+    "lat": 26.2057,
+    "lng": -98.3024
   },
+
   {
     "id": "Harbor Freight Store 186",
     "title": "Harbor Freight Store 186",
@@ -386,9 +402,10 @@
     "region": "TX",
     "country": "USA",
     "zip": "78577",
-    "latitude": 26.2095,
-    "longitude": -98.1831
+    "lat": 26.2095,
+    "lng": -98.1831
   },
+
   {
     "id": "Harbor Freight Store 187",
     "title": "Harbor Freight Store 187",
@@ -401,9 +418,10 @@
     "region": "TX",
     "country": "USA",
     "zip": "79762",
-    "latitude": 31.8716,
-    "longitude": -102.3676
+    "lat": 31.8716,
+    "lng": -102.3676
   },
+
   {
     "id": "Harbor Freight Store 188",
     "title": "Harbor Freight Store 188",
@@ -416,9 +434,10 @@
     "region": "TX",
     "country": "USA",
     "zip": "79407",
-    "latitude": 33.5779,
-    "longitude": -101.96
+    "lat": 33.5779,
+    "lng": -101.96
   },
+
   {
     "id": "Harbor Freight Store 189",
     "title": "Harbor Freight Store 189",
@@ -431,9 +450,10 @@
     "region": "TX",
     "country": "USA",
     "zip": "76710",
-    "latitude": 31.5301,
-    "longitude": -97.164
+    "lat": 31.5301,
+    "lng": -97.164
   },
+
   {
     "id": "Harbor Freight Store 190",
     "title": "Harbor Freight Store 190",
@@ -446,7 +466,7 @@
     "region": "TX",
     "country": "USA",
     "zip": "75701",
-    "latitude": 32.3272,
-    "longitude": -95.3007
+    "lat": 32.3272,
+    "lng": -95.3007
   }
 ]
